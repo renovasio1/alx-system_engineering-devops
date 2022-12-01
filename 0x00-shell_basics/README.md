@@ -1,1 +1,1 @@
-making bash file with pwd command
+ALX SE
