@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt . | head n11 | cat (2-11) 
+ls -1tp | grep -v -m 10
