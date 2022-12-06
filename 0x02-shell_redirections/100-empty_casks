@@ -1,3 +1,4 @@
 #!/bin/bash
-find . -type d -empty | find . -type f -empty
+find -empty | rev | cut -d'/' -f1 | rev
+
 
